@@ -3,6 +3,8 @@ Um painel fácil, simples e prático para uma rápida utilização do EasyEngine
 
 Para a utilização é muito simples, basta apenas seguir conforme descrito abaixo.
 
+**Observação:** Esse painel só funciona se o EasyEngine já estiver instalado em seu servidor.
+
 ## Instalação
 
 Primeiramente é preciso que você **Acesse seu painel SSH** para que possa executar uma das linhas, conforme escolhido.
