@@ -5,7 +5,7 @@ Para a utilização é muito simples, basta apenas seguir conforme descrito abai
 
 ## Instalação
 
-Primeiramente é preciso que você *Acesse seu painel SSH* para que possa executar uma das linhas, conforme escolhido.
+Primeiramente é preciso que você **Acesse seu painel SSH** para que possa executar uma das linhas, conforme escolhido.
 
 ### Execução ao Logar
 ```
